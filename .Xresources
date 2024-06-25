@@ -32,19 +32,19 @@
 *.color13 : #a6809f
 
 ! cyan
-*.color6  : #89d0bA
-*.color14 : #7dbba8
+*.color6  : #16a085
+*.color14 : #117864
 
 ! white
-*.color7  : #e5e9f0
-*.color15 : #d1d5dc
+*.color7  : #fdfefe
+*.color15 : #f2f4f4
 
 ! ------------------------------------------------------------------------------
 ! Dmenu configs
 ! ------------------------------------------------------------------------------
 
-dmenu.selforeground:	    #d8dee9
-dmenu.background:	        #2e3440
-dmenu.selbackground:	    #bf616a
-dmenu.foreground:	        #d8dee9
+dmenu.selforeground:	    #2e4053
+dmenu.background:	        #2e4053
+dmenu.selbackground:	    #ffecb3
+dmenu.foreground:	        #ffecb3
                                                            
